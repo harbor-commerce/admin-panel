@@ -1,4 +1,4 @@
 export const products = {
   title: 'Products',
-  columns: ['name', 'price'],
+  columns: ['image', 'name', 'price'],
 }
